@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100;0,300;0,400;0,500;1,100;1,300;1,900&display=swap');
+
+/* Global Resets */
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Exo 2', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  background-color: #FFF;
+  align-items: center;
+  min-height: 100vh;
+}
+
+#root {
+  height: 100%;
+}
+
+// font
+$exo-font: 'Exo 2', sans-serif;
+
+/* Color Palate */
+$light: rgb(255, 255, 255);
+$dark: rgb(51, 51, 51);
+$title-color: rgb(8, 144, 158);
+$blue: rgb(23, 214, 235);
+$pink: rgb(158, 16, 94);
+
