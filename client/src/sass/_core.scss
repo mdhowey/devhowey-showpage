@@ -27,7 +27,38 @@ $exo-font: 'Exo 2', sans-serif;
 /* Color Palate */
 $light: rgb(255, 255, 255);
 $dark: rgb(51, 51, 51);
-$title-color: rgb(8, 144, 158);
-$blue: rgb(23, 214, 235);
-$pink: rgb(158, 16, 94);
+$accent: rgb(8, 144, 158);
+$primary: rgb(23, 214, 235);
+$secondary: rgb(158, 16, 94);
 
+// font sizes
+$font-xxs: 10px;
+$font-xs: 12px;
+$font-sm: 14px;
+$font-md: 18px;
+$font-lg: 24px;
+$font-xl: 36px;
+$font-xxl: 48px;
+$font-xxx: 96px;
+
+// spacing
+$spacing-xxs: 1px;
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 32px;
+$spacing-xl: 64px;
+$spacing-xxl: 124px;
+
+// screen sizes
+$screen-sm: 576px;
+$screen-md: 768px;
+$screen-lg: 992px;
+$screen-xl: 1200px;
+$screen-xxl: 1300px;
+$screen-full: 1400px;
+
+// border radius
+$btnRadius: 8px;
+$pillRadius: 48px;
+$circleRadius: 999px;
