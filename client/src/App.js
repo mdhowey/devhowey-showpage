@@ -1,11 +1,19 @@
+import Container from "./components/Container";
+
+import {
+    Routes,
+    Route
+} from 'react-router-dom';
 
 
 function App() {
-  return (
-    <div className="App">
-      Test
-    </div>
-  );
+    return (
+        <Container>
+            <Routes>
+
+            </Routes>
+        </Container>
+    );
 }
 
 export default App;

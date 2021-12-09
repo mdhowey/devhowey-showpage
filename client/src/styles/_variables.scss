@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;700;900&family=Frijole&display=swap');
+
+// fonts
+$cairo: 'Cairo', sans-serif;
+$frijol: 'Frijole', cursive;
+
+// font sizes
+$ft-xxs: 10px;
+$ft-xs: 12px;
+$ft-sm: 14px;
+$ft-md: 18px;
+$ft-lg: 24px;
+$ft-xl: 36px;
+$ft-xxl: 48px;
+$ft-xxx: 96px;
+
+// colors
+$light: rgba(255, 255, 255, 1);
+$dark: rgba(63, 63, 63, 1);
+$green: rgba(77, 184, 144, 0.72);
+$dkblue: rgba(0, 189, 232, 0.91);
+$ltblue: rgba(79, 193, 219, 0.86);
+$ltpink: rgba(255, 213, 212, 1);
+$dkpink: rgba(255, 184, 211, 1);
+
+// spacing
+$sp-xxs: 1px;
+$sp-xs: 4px;
+$sp-sm: 8px;
+$sp-md: 16px;
+$sp-lg: 32px;
+$sp-xl: 64px;
+$sp-xxl: 124px;
+
+// border radius
+$btnRad: 8px;
+$pilRad: 48px;
+$cirRad: 999px;
+
+// heights
+$headH: 45px;
+$footH: 40px;
+
+// screen sizes
+$phone: 768;
+$tablet: 1280;
+$laptop: 1920;
+$desktop: 2560;
